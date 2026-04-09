@@ -1,52 +1,71 @@
-<!-- Banner Image -->
-![Banner](YOUR_BANNER_IMAGE_LINK_HERE)
 
-# 👋 Hi, I’m Md. Iqbal Hossain
-### Front-End Web Developer | Node.js | React.js | Next.js | MongoDB | Tailwind CSS | HTML
+<!-- 🚀 Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Md-Iqbal-Hossain/profile-assets/refs/heads/main/bannerImg_github.png" />
+</p>
+
+<!-- 🔥 Animated Typing Text (GIF-like effect) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+there👋;I'm+Md.+Iqbal+Hossain;Nice+to+meet+you!" />
+</p>
+
+## 🧑‍💻 About Me
+- 💻 Full Stack Developer specializing in Node.js, Express.js, MongoDB, Next.js, and React.js.
+- 🌐 Building modern, clean, responsive, and high-performance applications,  
+  focusing on maintainable code and real-world problem solving.
+- 🔥 Passionate about code quality, scalability, and continuous learning.
 
 ---
 
-## 💼 About Me
-I am a passionate Front-End Web Developer dedicated to building clean, responsive, and high-performance user interfaces. I focus on writing maintainable, error-free code and delivering solutions that meet real user and client needs.
+## 🌍 Connect With Me
 
-I enjoy exploring new technologies and sharing knowledge with the developer community. Solving real-world problems motivates me, and I approach every project with clear goals and a structured strategy.
-
-I value **code quality**, **attention to detail**, and **effective communication**. My tech stack includes **Node.js, Express.js, MongoDB, Next.js, React.js, JavaScript, Tailwind CSS, and HTML**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-iqbalhossain-bd/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:iqbalhossain6615@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Current Activities
-- I am currently **learning Next.js and Node.js**
-- Working on multiple **web development projects**
-- Exploring modern **JavaScript frameworks and tools**
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    </td>
+    <td width="50%" align="start">
+      <ul>
+        <li>🌱 I am currently learning Next.js and Node.js</li>
+        <li>💻 Working on multiple web development projects</li>
+        <li>🚀 Exploring modern JavaScript frameworks and tools</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Skills
+## ⚡ Skills
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
-</div>
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-iqbalhossain-bd/)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Iqbal-Hossain&theme=radical)
+  <!-- Streak Stats Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Iqbal-Hossain&theme=tokyonight&hide_border=false&background=0,1f1f2e,100,2d2d44&stroke=ffffff&ring=ff79c6&fire=ffb86c&currStreakLabel=ffffff" 
+    alt="GitHub Streak" 
+    width="450"
+  />
 
----
+</div>
 
