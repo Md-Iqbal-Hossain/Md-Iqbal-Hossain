@@ -1,24 +1,52 @@
-![Web Developer](https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/481069387_9559708064068792_9197483210069729237_n.jpg?_nc_cat=111&_nc_cb=99be929b-f3b7c874&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeGgcR9pAOGnHrlK-BfBVgp06ctUVe6RG2npy1RV7pEbafoWFWiYoL4NHJZ_4X0Mv0bVgVJpr9Nbmwl9iA7jZhd2&_nc_ohc=tOj2oYO22SwQ7kNvwG966VM&_nc_oc=AdkcjHNwD9uHrCrEeZesChJSMTPMop9ea6QMSUw5md7CXMHia84JTLlHqOk6xTfcDik&_nc_zt=23&_nc_ht=scontent.frjh4-1.fna&_nc_gid=s1DxfffVACazi-iuT7g2YQ&oh=00_AfngXO43gjH0R-0I_Yj6Swwm8rTaIRbuq0nL3g5SgGpd-A&oe=695A926F)
+<!-- Banner Image -->
+![Banner](YOUR_BANNER_IMAGE_LINK_HERE)
 
-### Hi there 👋, I'm Md.Iqbal Hossain
-#### Web Developer
+# 👋 Hi, I’m Md. Iqbal Hossain
+### Front-End Web Developer | Node.js | React.js | Next.js | MongoDB | Tailwind CSS | HTML
 
-Front-End Web Developer focused on building clean, responsive, and reliable user interfaces.
-I care deeply about writing error-free code and delivering solutions that truly satisfy users and clients.
+---
 
-I enjoy learning new technologies and sharing knowledge openly with the community.
-Solving real-world problems motivates me, and I always work with a clear goal and strategy in mind.
+## 💼 About Me
+I am a passionate Front-End Web Developer dedicated to building clean, responsive, and high-performance user interfaces. I focus on writing maintainable, error-free code and delivering solutions that meet real user and client needs.
 
-I value code quality, attention to detail, and clear communication in every project.
-I enjoy building modern web interfaces using React.js, JavaScript, Tailwind CSS, and HTML.
+I enjoy exploring new technologies and sharing knowledge with the developer community. Solving real-world problems motivates me, and I approach every project with clear goals and a structured strategy.
 
-Skills: REACT / JS / HTML / CSS / TAILWIND
+I value **code quality**, **attention to detail**, and **effective communication**. My tech stack includes **Node.js, Express.js, MongoDB, Next.js, React.js, JavaScript, Tailwind CSS, and HTML**.
 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+---
+
+## 🚀 Current Activities
+- I am currently **learning Next.js and Node.js**
+- Working on multiple **web development projects**
+- Exploring modern **JavaScript frameworks and tools**
+
+---
+
+## 💻 Skills
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+</div>
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-iqbalhossain-bd/)
+
+---
+
+## 📊 GitHub Stats
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Iqbal-Hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/md-iqbal-hossain-54b4331b0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Md.Iqbal.360)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Iqbal-Hossain&theme=radical)
 
+---
 
